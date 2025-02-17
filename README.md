@@ -11,3 +11,7 @@ Pre-Requisites for Data Science:
 Week 1st: 
 -> Brushing basic Concepts of Python from online lectures, YouTube videos, etc...
 -> Solving simple problems to have a good command of Python.
+
+Week 2nd:
+-> Learning the basic Matematical concepts that are required for Data science 
+    like Probability, Permutations and Combinations. 
