@@ -15,3 +15,4 @@ Week 1st:
 Week 2nd:
 -> Learning the basic Matematical concepts that are required for Data science 
     like Probability, Permutations and Combinations. 
+-> Start building basic level Porojects from watching youtube tutorails and online compitetions. 
