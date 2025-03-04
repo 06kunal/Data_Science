@@ -20,6 +20,6 @@ Pre-Requisites for Data Science:
     * Probability Distributions
     * Statistics
 - Start building basic level Porojects from watching youtube tutorails and online compitetions like:
-      * Exploratory Data Analysis one different datasets, to get a basic understanding of various data manipulation and visualization techniques.
-      * Basic classification projects like: Iris Flower classification with a little extra learning that is by creating a Web App.
+    * Exploratory Data Analysis one different datasets, to get a basic understanding of various data manipulation and visualization techniques.
+    * Basic classification projects like: Iris Flower classification with a little extra learning that is by creating a Web App.
   
