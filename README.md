@@ -24,7 +24,7 @@ Pre-Requisites for Data Science:
     * Basic classification projects like: Iris Flower classification with a little extra learning that is by creating a Web App.
 
 ## Week 3rd:
-    * Build a Portfolio. It could be in github or website or linkedin.
-    * Start building connections from linkedin, Ai communities and try to be upto date with the latest trends about AI and Machine Learning.
+- Build a Portfolio. It could be in github or website or linkedin.
+- Start building connections from linkedin, Ai communities and try to be upto date with the latest trends about AI and Machine Learning.
     
 
