@@ -27,6 +27,6 @@ Pre-Requisites for Data Science:
 ## Week 4th:
 - Build a Portfolio. It could be in github or website or linkedin.
 - Start building connections from linkedin, Ai communities and try to be upto date with the latest trends about AI and Machine Learning.
-- Start learning some backend databases like django etc. 
+- Start learning some backend databases like django etc by building projects. 
 
 
